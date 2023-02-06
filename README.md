@@ -45,5 +45,3 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-oliveira-70961a253/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustosilva980/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006442060343)
-
-# augustoOliveira1993
